@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @shyam-lab
-- 👀 I’m interested in all things the world offers
-- 🌱 I’m currently learning AI, India market and establishing large engineering teams
-- 💞️ I’m looking to collaborate on small language models
-- 📫 How to reach me shyamprasadrao@gmail.com
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I was resecued by rangers twice in Grand Canyon
+## 🚀 What I'm building
+- AI systems that run locally on devices
+- Quantum protocol simulations and experiments
+- Cross-layer systems (hardware ↔ OS ↔ AI)
 
-<!---
-shyam-lab/shyam-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Featured Work
+- Quantum Key Distribution Lab → secure communication under noise
+- Quantum Compute Primitives → understanding error in quantum systems
+- Android File System UI → scalable device-level UX
+
+## 🤝 Looking to collaborate on
+- Small language models on edge devices
+- Quantum + AI intersections
+- Early-stage product ideas in intelligent systems
